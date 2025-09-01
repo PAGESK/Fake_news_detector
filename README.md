@@ -1,6 +1,6 @@
 # 📰 Fake News Detector (NLP + Machine Learning + Explainability)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PAGESK/FakeNewsDetector/blob/main/main_fake_news_detector.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PAGESK/Fake_news_detector/blob/main/main_fake_news_detector.ipynb)
 
 
 ## **Description**
