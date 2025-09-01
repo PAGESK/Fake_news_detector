@@ -1,6 +1,7 @@
 # 📰 Fake News Detector (NLP + Machine Learning + Explainability)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinpages/FakeNewsDetector/blob/main/main_fake_news_detector.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PAGESK/FakeNewsDetector/blob/main/main_fake_news_detector.ipynb)
+
 
 ## **Description**
 Ce projet implémente un modèle de Machine Learning pour la **détection automatique de fake news** basé sur :
