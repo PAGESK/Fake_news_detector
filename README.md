@@ -8,7 +8,7 @@ Ce projet implémente un modèle de Machine Learning pour la **détection automa
 - **TF-IDF** pour la vectorisation des textes.
 - **Régression logistique** pour la classification.
 - **LIME** pour l’explicabilité locale.
--
+
 
 Le projet est pensé pour être **reproductible, clair et modulaire** :
 - Un **notebook explicatif** pour comprendre l’ensemble du pipeline.
@@ -42,7 +42,7 @@ Le notebook *main_fake_news_detector.ipynb* contient :
 
 **Performance initiale sur le dataset WELFake :**
 
-<img width="703" height="246" alt="{5733A4A0-9DFF-4D38-870F-01FA8B1F3778}" src="https://github.com/user-attachments/assets/497d6ca9-9025-42e3-8c76-61786a403b8c" />
+<img width="658" height="244" alt="{399A22A8-FE0F-40ED-8939-CB01B75E6D7C}" src="https://github.com/user-attachments/assets/47c78529-360f-4bd2-9f74-9cd63f89baf4" />
 
 
 
